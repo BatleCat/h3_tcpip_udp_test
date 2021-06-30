@@ -23,7 +23,7 @@
 -    [MPLAB® XC32 C/C++ Compiler v2.50](https://www.microchip.com/mplab/compilers)
 -   MPLAB® X IDE plug-ins:- MPLAB® Harmony 3 Configurator v2.0.5.2 or above
 -   Download the following Harmony 3 pack repositories from GitHub:
-
+  | Harmony3 pack | Description |
   | --- | --- |
   | [CSP v3.9.1](https://github.com/Microchip-MPLAB-Harmony/csp.git) | Harmony 3 Chip Support Package |
   | [DEV_PACKS v3.9.0](https://github.com/Microchip-MPLAB-Harmony/dev_packs.git) | Harmony 3 Product Database | 
