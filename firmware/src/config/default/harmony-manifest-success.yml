@@ -4,20 +4,20 @@
 
 
 project: h3_tcpip_udp_test
-creation_date: 2021-06-28T10:03:41.578+03:00[Europe/Moscow]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
+creation_date: 2021-09-15T11:05:06.546+03:00[Europe/Moscow]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
 operating_system: Windows 10
 mhc_mode: IDE            # [IDE|Standalone|Headless]
-mhc_version: v3.7.2
+mhc_version: v3.8.0
 mplabx_version: v5.45        # if MPLAB X plugin only
 plugin_version: v3.6.4        # if MPLAB X plugin only
 compiler: XC32 (3.01)
 
 modules:
-    - {name: "core", version: "v3.9.1"}
+    - {name: "core", version: "v3.9.2"}
     - {name: "csp", version: "v3.9.1"}
     - {name: "dev_packs", version: "v3.9.0"}
     - {name: "wolfssl", version: "unknown"}
-    - {name: "net", version: "v3.7.2"}
+    - {name: "net", version: "v3.7.3"}
     - {name: "bsp", version: "v3.9.0"}
-    - {name: "crypto", version: "v3.7.1"}
+    - {name: "crypto", version: "v3.7.3"}
 
